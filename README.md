@@ -75,50 +75,50 @@ Used AI (Claude, ChatGPT, Gema) used AI to help me understand what was going wro
 
 ## Notes
 
-# Files
-cat <file>                  # View file
-less <file>                 # View file (scrollable)
-head/tail <file>            # First/last 10 lines
-nano <file>                 # Edit file
+### Files
+	cat <file>                  # View file
+	less <file>                 # View file (scrollable)
+	head/tail <file>            # First/last 10 lines
+	nano <file>                 # Edit file
 
-# Search
-grep "text" <file>          # Search in file
-grep -r "text" /path        # Search in directory
-find . -name "*.txt"        # Find files
+### Search
+	grep "text" <file>          # Search in file
+	grep -r "text" /path        # Search in directory
+	find . -name "*.txt"        # Find files
 
-# Count
-wc -l <file>                # Count lines
-ls | wc -l                  # Count files
+### Count
+	wc -l <file>                # Count lines
+	ls | wc -l                  # Count files
 
-# Pipes
-command | grep "text"       # Filter output
-command > file              # Save to file
-command >> file             # Append to file
+### Pipes
+	command | grep "text"       # Filter output
+	command > file              # Save to file
+	command >> file             # Append to file
 
-# Files
-rm <file>                   # Delete
-rm -l						# Delete a directory with a file
-rm -lf						# Force delete a directory with file
-rmdir						# Delete a directory
+### Files
+	rm <file>                   # Delete
+	rm -l						# Delete a directory with a file
+	rm -lf						# Force delete a directory with file
+	rmdir						# Delete a directory
 
-# Navigation
-pwd                         # Current directory
-cd <dir>                    # Change directory
-ls -lah                     # List files (detailed)
+### Navigation
+	pwd                         # Current directory
+	cd <dir>                    # Change directory
+	ls -lah                     # List files (detailed)
 
-# Process
-ps aux | grep <name>        # Find process
-kill <PID>                  # Kill process
-top                         # Monitor processes
+### Process
+	ps aux | grep <name>        # Find process
+	kill <PID>                  # Kill process
+	top                         # Monitor processes
 
-# System
-df -h                       # Disk space
-free -h                     # Memory usage
-sudo reboot                 # Restart
+### System
+	df -h                       # Disk space
+	free -h                     # Memory usage
+	sudo reboot                 # Restart
 
 # Shortcuts
-history                     # Command history
-!!                          # Repeat last command
-Ctrl+R                      # Search history
-Ctrl+C                      # Cancel command
-Ctrl+L                      # Clear screen
+	history                     # Command history
+	!!                          # Repeat last command
+	Ctrl+R                      # Search history
+	Ctrl+C                      # Cancel command
+	Ctrl+L                      # Clear screen
