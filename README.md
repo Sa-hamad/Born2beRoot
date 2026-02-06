@@ -44,8 +44,6 @@ _Relevant information about compilation, installation, and/or execution._
 ## Resources
 _Classic references related to the topic (documen- tation, articles, tutorials, etc.), as well as a description of how AI was used — specifying for which tasks and which parts of the project._
 
-**Git Book** 
-
 **Virtual Machine** 
 [https://cloud.google.com/learn/what-is-a-virtual-machine]
 [https://wiki.debian.org/LVM]
