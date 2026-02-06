@@ -68,7 +68,7 @@ _Classic references related to the topic (documen- tation, articles, tutorials, 
 [https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/]
 [https://www.geeksforgeeks.org/linux-unix/crontab-in-linux-with-examples/]
 
-Got helpful tips and advice from other students working on the same project. 
+Also got helpful tips and advice from other students working on the project. 
 
 ### AI Tools
 Used AI (Claude, ChatGPT, Gema) used AI to help me understand what was going wrong and tips how to fix it. I also used it to review and understand specific concepts better and commands.
