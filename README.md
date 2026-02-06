@@ -14,7 +14,6 @@ Intro to Server management and working with root access. Setting up and configur
 - Setting up encrypted partitions, configuring SSH
 - Managing users.
 - Writing a monitoring script.
-
 - Set up a virtual machine in VirtualBox with Debian
 - Configure encrypted partitions using LVM
 - Set up and configure SSH server on a non-standard port
@@ -78,7 +77,6 @@ Used AI (Claude, ChatGPT, Gema) used AI to help me understand what was going wro
 ### Files
 	cat <file>                  # View file
 	less <file>                 # View file (scrollable)
-	head/tail <file>            # First/last 10 lines
 	nano <file>                 # Edit file
 
 ### Search
