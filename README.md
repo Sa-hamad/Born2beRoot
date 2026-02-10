@@ -62,6 +62,7 @@ _Classic references related to the topic (documen- tation, articles, tutorials, 
 
 **Firewall**
 [https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu]
+[https://en.wikipedia.org/wiki/Iptables]
 
 **Script**
 [https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/]
@@ -83,6 +84,7 @@ Used AI (Claude, ChatGPT, Gema) used AI to help me understand what was going wro
 	grep "text" <file>          # Search in file
 	grep -r "text" /path        # Search in directory
 	find . -name "*.txt"        # Find files
+	cp <file> ~/../..			# Dublicate & move to a specific location
 
 ### Count
 	wc -l <file>                # Count lines
